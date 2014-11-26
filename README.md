@@ -28,4 +28,4 @@ At the moment just few tasks are available and you can execute them via gulp:
 *  create example app
 *  task for reimporting static files into Java application
 *  tests
-*  provide more better usage description
+*  provide better usage description
