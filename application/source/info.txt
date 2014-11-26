@@ -1,0 +1,20 @@
+Place here your JS and template files
+
+Recommended structure:
+
+common ------|
+             |- directives
+             |- services
+             |- filters
+             ...
+
+view1 -------|
+             |- controller.js
+             |- template.html
+
+view2 -------|
+             |- controller.js
+             |- template.html
+
+router.js
+application.js

@@ -26,3 +26,10 @@ node_modules
 
 # Users Environment Variables
 .lock-wscript
+
+# JUnit results
+tests/acceptance/result/*.xml
+tests/unit/result/*.xml
+
+# Temporary storage
+.tmp
