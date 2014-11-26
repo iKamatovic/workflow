@@ -1,0 +1,2 @@
+Place here your test spec files.
+File name must contain ".spec.js" in order to be loaded by protractor
