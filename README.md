@@ -20,7 +20,7 @@ At the moment just few tasks are available and you can execute them via gulp:
 
 *  `gulp build` - it will collect your JS and templates and create one bundle file
 *  `gulp watch` - it will observe changes on your JS files and templates and on every change execute build task
-*  `gulp test [--env [local | remote] | --type [ acceptance | unit] | --tests coma_separated_paths_to_specific_test ]` - it will run your tests by default it will run acceptance tests on local environment
+*  `gulp test [--env [local | remote] | --type [ acceptance | unit] | --tests comma_separated_paths_to_specific_test ]` - by default it will run acceptance tests on local environment
 
 ----
 ## TODO
